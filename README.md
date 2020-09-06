@@ -5,7 +5,7 @@ By Yifei Ren, Jian Lou, Li Xiong, and Joyce C. Ho. 2020. Code for ``Robust Irreg
 This repository is designed for a robust PARAFAC2 tensor factorization method
 for irregular tensors with a new low-rank regularization function to handle potentially missing and erroneous entries in the input tensor.
 
-Before running the codes you need to import Tensor Toolbox Version 2.6 which can be downloaded from: https://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html
+Before running the codes you need to import Tensor Toolbox Version 2.6 and N-way which can be downloaded from: https://www.sandia.gov/~tgkolda/TensorToolbox/index-2.6.html
 
 To start, you need to run: "Run_This.m" file. 
 You can select if you want to use the robust version or not:
